@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/muazahmet/Projects/IntelliJ-workspace/Vaadin-Projekten/anlass-management/backend/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
